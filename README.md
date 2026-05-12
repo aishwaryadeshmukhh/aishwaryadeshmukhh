@@ -26,13 +26,9 @@
 
 ## 👩‍💻 About Me
 
-I'm interested in building practical AI systems that combine machine learning, backend engineering, and clean user experiences. Most of my recent work has been around LLM applications, retrieval systems, cloud pipelines, and full-stack AI projects.
-
-Currently exploring:
-- RAG pipelines & LLM applications
-- AI-powered search and retrieval systems
-- Data engineering workflows
-- Scalable backend systems
+Computer Engineering (Data Science) student interested in building AI systems using LLMs, RAG pipelines, semantic search, and scalable backend workflows. Most of my projects sit at the intersection of AI, data engineering, and full-stack development — usually involving intelligent retrieval systems, conversational platforms, or automation-heavy workflows.
+I enjoy turning complex ideas into clean, usable systems.
+If I’m not on my laptop debugging something, I’m probably at the badminton court or doomscrolling (we all do).
 
 ---
 
