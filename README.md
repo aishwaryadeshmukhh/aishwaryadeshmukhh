@@ -101,16 +101,19 @@ Multi-agent AI pipeline for large-scale data ingestion, verification, and misinf
 # 🛠️ Tech Stack
 
 ### Languages
-`Python` `SQL` `Java` `C++`
+`Python` `C#` `SQL` `HTML` `CSS` `JavaScript`
 
-### AI / ML
-`PyTorch` `Scikit-learn` `LangChain` `RAG` `LLMs`
+### Data Engineering & Analytics
+`ETL Pipelines` `PostgreSQL` `MySQL` `SQLite` `RDBMS Design & Optimization` `SQL Query Optimization` `AWS S3` `Parquet` `Data Modeling` `Relational Data Architecture`
 
-### Backend & Cloud
-`FastAPI` `Flask` `PostgreSQL` `Snowflake` `AWS`
+### ML & LLM Frameworks
+`PyTorch` `TensorFlow` `Scikit-learn` `RAG Pipelines` `NL-to-SQL` `LangChain` `FAISS` `Semantic Search` `PySpark` `Power BI` `Tableau` `Dashboard Development` `KPI Design`
 
-### Tools
-`Git` `GitHub` `Streamlit` `Docker` `VS Code`
+### Cloud & Backend Systems
+`AWS S3` `REST APIs` `Data Pipelines` `System Design` `Error Handling` `Logging & Monitoring`
+
+### Soft Skills
+`Business Problem Analysis` `Stakeholder Communication` `Cross-functional Collaboration` `Problem-Solving`
 
 ---
 
@@ -119,16 +122,6 @@ Multi-agent AI pipeline for large-scale data ingestion, verification, and misinf
 - 🥇 Winner — IIT BHU Impact Metrics
 - 🏅 Finalist (Top 6) — TIAA BRG Hackathon
 - 🥇 Winner — Co-Code Hackathon @ DJSCE
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishwaryadeshmukhh&show_icons=true&hide_border=true" height="160"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryadeshmukhh&layout=compact&hide_border=true" height="160"/>
-</p>
 
 ---
 
