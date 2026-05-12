@@ -38,55 +38,67 @@ Currently exploring:
 
 # 🚀 Featured Projects
 
-## 🔹 HackRx — LLM Insurance Query System
+## 🔹 [HackRx — LLM Insurance Query System](https://github.com/aishwaryadeshmukhh/hackrx-llm-query-system)
 
-AI-powered insurance query analysis platform built for HackRx 6.0.
+AI-powered insurance query analysis platform built for HackRx 6.0 focused on semantic retrieval and intelligent claim reasoning.
 
-- Natural language insurance query handling
-- Semantic retrieval from policy documents
-- Structured JSON decision generation
-- Retrieval-Augmented Generation (RAG) pipeline
+> Natural language insurance query understanding with clause-level evidence retrieval.
 
-**Tech:** `Python` `FastAPI` `LangChain` `FAISS` `LLMs`
+- Built a Retrieval-Augmented Generation (RAG) pipeline for insurance policy analysis
+- Implemented semantic search over unstructured policy documents and contracts
+- Generated structured JSON outputs containing decision, amount, and justification
+- Designed intelligent retrieval workflows for clause-level reasoning and explainability
+- Developed scalable backend APIs for real-time query processing
 
----
-
-## 🔹 FloatChat — Conversational Ocean Data Platform
-
-AI platform for querying and visualizing ARGO oceanographic data using natural language.
-
-- ARGO NetCDF data processing
-- Vector-search powered retrieval
-- Interactive geospatial dashboards
-- Conversational querying workflow
-
-**Tech:** `Python` `Streamlit` `PostgreSQL` `FAISS` `Plotly`
+**Stack:** `Python` `FastAPI` `LangChain` `FAISS` `LLMs`
 
 ---
 
-## 🔹 PharmaIQ
+## 🔹 [FloatChat — Conversational Ocean Data Platform](https://github.com/aishwaryadeshmukhh/Floatchat-SIH)
+
+AI-powered conversational platform for querying and visualizing ARGO oceanographic data using natural language.
+
+> Making complex oceanographic datasets accessible through conversational AI.
+
+- Processed ARGO NetCDF files into structured relational and vector databases
+- Built a vector-search powered retrieval system for oceanographic metadata
+- Developed natural language querying workflows over ARGO float datasets
+- Created interactive geospatial dashboards for trajectory and profile visualization
+- Designed scalable pipelines for ingestion, indexing, and retrieval of scientific datasets
+
+**Stack:** `Python` `Streamlit` `PostgreSQL` `FAISS` `Plotly`
+
+---
+
+## 🔹 [PharmaIQ](https://github.com/yash-ganatra/PharmaIQ)
 
 Cloud-native pharmaceutical intelligence platform focused on scalable data ingestion and retrieval workflows.
 
-- AWS → Snowflake ETL pipeline
-- Structured pharmaceutical data workflows
-- Backend APIs and cloud integration
-- AI-assisted retrieval pipeline
+> Intelligent pharmaceutical data processing and analytics pipeline.
 
-**Tech:** `AWS` `Snowflake` `Python` `SQL`
+- Built scalable ETL workflows for pharmaceutical data ingestion
+- Integrated AWS and Snowflake for cloud-native analytics infrastructure
+- Developed structured APIs and backend workflows for data retrieval
+- Engineered intelligent search and retrieval pipelines for large-scale datasets
+- Focused on scalable cloud architecture and analytics workflows
+
+**Stack:** `AWS` `Snowflake` `Python` `SQL`
 
 ---
 
-## 🔹 MumbaiHacksJbbr
+## 🔹 [MumbaiHacksJbbr](https://github.com/ayushptl1810/MumbaiHacksJbbr)
 
-Collaborative hackathon project focused on backend systems and AI-assisted workflows.
+Multi-agent AI pipeline for large-scale data ingestion, verification, and misinformation detection.
 
-- API integrations
-- Backend architecture
-- Workflow automation
-- Team-based development
+> Real-world trust validation system using LLM-driven evidence fusion.
 
-**Tech:** `Python` `FastAPI` `React`
+- Designed a multi-agent data ingestion and processing pipeline for heterogeneous data sources
+- Built an LLM-driven verification system using cross-source evidence fusion
+- Developed a FastAPI backend with PostgreSQL and Redis for scalable deployment
+- Engineered distributed scraping systems for continuous ingestion from news and social platforms
+- Focused on real-world usable systems for decision-making and trust validation
+
+**Stack:** `Python` `FastAPI` `PostgreSQL` `Redis` `LLMs`
 
 ---
 
