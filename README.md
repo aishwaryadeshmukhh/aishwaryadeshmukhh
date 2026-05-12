@@ -90,9 +90,9 @@ Git • GitHub • Streamlit • Docker • VS Code
 
 ## Highlights
 
-- Smart India Hackathon Finalist
-- Worked on multiple LLM + RAG based systems
-- Interested in AI engineering and applied machine learning
+- Winner at IIT BHU - Impact Metrics
+- Finalist - Top 6 - TIAA BRG Hackathon
+- Winner - Co-Code Hackathon @ DJSCE
 
 ---
 
@@ -104,5 +104,5 @@ Git • GitHub • Streamlit • Docker • VS Code
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN](https://www.linkedin.com/in/aishwarya-deshmukh2005/)">LinkedIn</a>
 </p>
